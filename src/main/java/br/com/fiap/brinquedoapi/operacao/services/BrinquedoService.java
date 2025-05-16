@@ -1,7 +1,7 @@
-package br.com.fiap.vmteste.services;
+package br.com.fiap.brinquedoapi.operacao.services;
 
-import br.com.fiap.vmteste.domain.Brinquedo;
-import br.com.fiap.vmteste.repository.BrinquedoRepo;
+import br.com.fiap.brinquedoapi.operacao.domain.Brinquedo;
+import br.com.fiap.brinquedoapi.operacao.repository.BrinquedoRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;

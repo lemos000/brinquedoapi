@@ -1,4 +1,4 @@
-package br.com.fiap.vmteste.domain;
+package br.com.fiap.brinquedoapi.operacao.domain;
 
 public enum Classificacao {
     LIVRE,

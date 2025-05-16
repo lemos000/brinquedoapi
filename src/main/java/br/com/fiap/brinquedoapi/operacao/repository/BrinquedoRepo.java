@@ -1,6 +1,6 @@
-package br.com.fiap.vmteste.repository;
+package br.com.fiap.brinquedoapi.operacao.repository;
 
-import br.com.fiap.vmteste.domain.Brinquedo;
+import br.com.fiap.brinquedoapi.operacao.domain.Brinquedo;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,12 +1,11 @@
-package br.com.fiap.vmteste.controller;
+package br.com.fiap.brinquedoapi.operacao.controller;
 
-import br.com.fiap.vmteste.domain.Brinquedo;
-import br.com.fiap.vmteste.services.BrinquedoService;
+import br.com.fiap.brinquedoapi.operacao.domain.Brinquedo;
+import br.com.fiap.brinquedoapi.operacao.services.BrinquedoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @RestController
