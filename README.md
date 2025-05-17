@@ -20,7 +20,10 @@ Gabriel Lemos da Silva RM554819
 
 Em resumo, esta estrutura de pastas organiza o código da aplicação em camadas lógicas, facilitando a manutenção, o entendimento e a escalabilidade do projeto.
 
-Exemplos no Insomnia:
+## Projeto no Spring Initializr
+![image](https://github.com/user-attachments/assets/f0fe75d8-de9a-4301-a6da-89bf003ebf2e)
+***
+## Exemplos no Insomnia:
 
 ![a](https://github.com/user-attachments/assets/dc983289-5512-4fdd-89f5-c17e774587b5)
 ![b](https://github.com/user-attachments/assets/6ff23551-37cf-4170-9183-fbafdd9ab842)
