@@ -8,8 +8,6 @@ Gabriel Lemos da Silva RM554819
 ![image](https://github.com/user-attachments/assets/7633b293-daa9-4acf-9612-5ca8d2dd3bc7)
 ## Estrutura de Pastas
 
-A imagem apresenta uma estrutura de pastas típica de um projeto de software, provavelmente em Java, seguindo uma arquitetura comum. Abaixo está a descrição da função esperada para cada pasta:
-
 * **`br.com.fiap.brinquedoapi.operacao`**: Esta é a pasta raiz do pacote da aplicação.
 
 * **`controller`**: Esta pasta contém as classes responsáveis por receber as requisições externas (como requisições HTTP de um cliente)
