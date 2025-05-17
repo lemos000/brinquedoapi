@@ -22,8 +22,8 @@
 
 Antes de executar o projeto, certifique-se de ter as seguintes ferramentas instaladas:
 
-* **Java Development Kit (JDK):** Versão [especificar versão, ex: 17].
-* **Maven:** Versão [especificar versão, ex: 3.8.x].
+* **Java Development Kit (JDK):** Versão 21
+* **Maven:** Versão 3.9
 * **IntelliJ IDEA:** (Opcional, para desenvolvimento)
 * **Insomnia ou outra ferramenta de teste de API:** (Opcional, para testar os endpoints)
 * **Banco de Dados:** (Certifique-se de que o banco de dados configurado esteja em execução)
